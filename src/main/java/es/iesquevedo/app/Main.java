@@ -46,5 +46,5 @@ public class Main {
         System.out.println("2) Eliminar Socio");
         System.out.println("3) Listar Socios");
         System.out.println("0) Salir");
-    } // hola
+    } // hola xd
 }
